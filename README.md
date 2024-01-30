@@ -1,5 +1,5 @@
 - 👋 Hi, I am @francesco92maura
-- 👀 I’m a PostDoc at Bocconi University, interested in Economics (household finance, behavioural economics and ageing)
+- 👀 I’m a PostDoc at Bocconi University, interested in Economics (household, ageing, behavioural and gender)
 - 🌱 I’m currently learning and practicing Data science with RStudio
 - 📫 How to reach me: francesco92.maura@gmail.com, francesco.maura@unibocconi.it, francesco.maura@unipd.it
 
